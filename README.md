@@ -2,12 +2,12 @@
 
 ## Description
 
-This webpage use JavaScript to allow the end user to randomly generate a password. The starter code included the HTML and CSS elements, but was not properly following the acceptance criteria. I've summarized below how this website is designed to operate: 
+This webpage uses JavaScript to allow the end user to randomly generate a password. The starter code included the HTML and CSS elements, but the site was not properly following the acceptance criteria, and the JavaScript code required significant changes. I've summarized below how this website is designed to operate: 
 
 
-* WHEN I click the button to generate a password, THEN I am presented with a series of prompts for password criteria, WHERE I select which criteria to include the password 
+* When the user clicks the button to generate a password, then they are presented with a series of prompts for password criteria, where they select which criteria to include in the password.  
     * Length (8 to 128 characters)
-    * Character types (lowercase,uppercase,special characters) - It is required to select at least 1 of the 3 types
+    * Character types (lowercase,uppercase,numeric, and special characters) - It is required to select at least 1 of the 4 types
 * WHEN all prompts are answered, THEN a password is generated that matches the selected criteria, and is written to the page for consumption
 
 ## Usage
