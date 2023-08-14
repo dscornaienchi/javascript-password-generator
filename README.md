@@ -18,7 +18,7 @@ The website can be found at the URL here: https://dscornaienchi.github.io/javasc
 
 The website should look like the screenshot shown below:
 
-//![alt text](./assets/images/Javascript-site-screenshot.jpg)
+![alt text](./assets/images/Javascript-site-screenshot.jpg)
 
 ## Credits
 
