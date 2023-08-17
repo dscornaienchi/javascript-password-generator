@@ -55,3 +55,6 @@ function generatePassword() {
   var passwordText = document.querySelector("#password");
   passwordText.value = generatedPassword;
 }
+
+
+
